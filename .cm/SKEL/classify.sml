@@ -1,0 +1,2 @@
+Skeleton 5
+ae"NaiveBayes"i2aä¢ClassSpec"h2aä¢Category"gp1c"ORDERED"aä¢Dataset"gp1c"MAP_REDUCE"f5Cd"Int"d"Seq"d"Math"d"Real"ÿNjh7aÿ9çğ²ÿÿ9aä¢CatEC"jh2aä¢Key"çğ²ÿÿ áä¢MR"ÿ9çğ±å¢ExtractCombine"Caä¢WordEC"jh2aÿ‚çğ±ä¢StringLt"ÿ‚ÿ‚#aä¢CatWordEC"jh2aÿ‚jh2ad"O1"ÿ‚ad"O2"ÿƒ	gp1e"PairOrder"ÿ‚ÿ‚#ad"CatDict"gp2ÿ‚ä¢D"ad"WordDict"gp2ÿ‚9ÿ„,ad"CatWordDict"gp2ÿƒÿ„,Ngp1c"NAIVE_BAYES_CLASSIFIER"

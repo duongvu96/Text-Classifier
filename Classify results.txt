@@ -1,0 +1,7 @@
+File size			number_correct
+
+small				5/8
+medium				680/808
+big				70122/78899
+
+=> Improvement with larger data sets
